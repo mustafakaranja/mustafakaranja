@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Mustafa Karanjawala
+### I'm Mustafa Karanjawala
 
 - 🔭 I’m currently working at Acuitas360
 - 🌱 I’m currently learning Golang
